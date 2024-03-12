@@ -13,7 +13,7 @@ int main()
     char direction;
     int shift_amount;
 
-    printf("Direction (l/r)?\n");
+    printf("Direction (l/r) ?\n");
     scanf(" %c", &direction);
     printf("Shift ammount by?\n");
     scanf("%d", &shift_amount);
